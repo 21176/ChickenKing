@@ -1,0 +1,22 @@
+#logo{
+    font-family: 'Vibur', cursive;
+}
+#toprow{
+    padding-top: 30px;
+    background-color: orange;
+}
+#move{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+#bottom{
+    padding-top: 20px;
+    background-color: greenyellow;
+}
+#map{
+    height: 400px;
+}
+#color{
+    background-color: lavenderblush;
+    padding-bottom: 10px;
+}
